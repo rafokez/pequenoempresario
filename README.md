@@ -1,12 +1,54 @@
-# React + Vite
+# 🧩 Pequeno Empresário — Plataforma de Apoio a Micro e Pequenos Negócios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Pequeno Empresário** é uma plataforma digital feita para ajudar pequenos empreendedores a crescerem com mais clareza, estrutura e ferramentas práticas. Aqui, o microempresário encontra apoio, conteúdo, utilitários e orientação para transformar sua ideia ou empresa em um negócio sustentável e escalável.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades já disponíveis
 
-## Expanding the ESLint configuration
+- 🔐 Autenticação segura com Firebase (Login e Cadastro)
+- 🏠 Landing page moderna e responsiva
+- 🧭 Redirecionamento pós-login com proteção de rotas privadas
+- 📋 Dashboard personalizada com saudação e cards informativos
+- 🧰 Página de ferramentas com cards para recursos essenciais (em desenvolvimento)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Ferramentas previstas
+
+Em breve, o sistema incluirá utilidades indispensáveis para o dia a dia do pequeno empreendedor:
+
+- 📊 Calculadora de Preço de Venda
+- 🧾 Simulador MEI / Simples Nacional
+- 📝 Gerador de Contratos PDF
+- ✅ Checklist de Formalização
+- 💸 Mini ERP Financeiro (Fluxo de Caixa)
+- 📅 Planner de Conteúdo para Instagram
+- 🎯 Simulador de Meta de Faturamento
+
+---
+
+## 👨‍💻 Tecnologias Utilizadas
+
+| Frontend | Backend / Auth | Estilo | Outros |
+|----------|----------------|--------|--------|
+| React + Vite | Firebase Auth | Tailwind CSS | React Router DOM |
+| JSX / Hooks | Firestore (em breve) | shadcn/ui | Git + GitHub |
+
+---
+
+## 🤝 Apoio Social
+
+Esse projeto conta com o **apoio institucional da ONG [Instituto Amar](https://www.institutoamar.org.br)**, que promove capacitação e inclusão social por meio do empreendedorismo. Parte da missão do projeto é democratizar o acesso ao conhecimento e a ferramentas digitais que empoderem pequenos negócios de periferias e áreas vulneráveis.
+
+> 💙 A cada ferramenta construída, um passo a mais para diminuir desigualdades no empreendedorismo brasileiro.
+
+---
+
+## 📷 Screenshots (em breve)
+
+- Landing page com botão de login e cadastro
+- Dashboard com cards de boas-vindas
+- Cards clicáveis de ferramentas
+
+---
